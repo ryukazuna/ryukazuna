@@ -1,7 +1,7 @@
 <h1 align="center">Hi, Im RyuKazuna <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 <p align="center">
 💫 Communications Science 🤖.
-<br>⚒️ <a href="https://github.com/rathena/rathena">rAthena</a> all time contributor.
+<br>⚒️ <a href="https://github.com/rathena/rathena">rAthena</a> all time fans.
 <br>⭐ Server developer and tech savvy.
 <br>👩‍💻 Hail open source world.
 <br>
