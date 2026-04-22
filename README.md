@@ -42,6 +42,4 @@
 </p>
 <p  align="center">
 <img align="Center" src="https://github-readme-streak-stats.herokuapp.com/?user=ryukazuna&" alt="ryukazuna" />
-<img src="https://github-readme-stats.vercel.app/api?username=ryukazuna&show_icons=true&theme=tokyonight" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryukazuna&layout=compact&theme=tokyonight"/>
 </p>
